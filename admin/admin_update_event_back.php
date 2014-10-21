@@ -12,6 +12,7 @@ if (!isset($_POST['submit'])) {
     }
 ## query database
     # prepare data for insertion
+    $name	= $_POST['name'];
     $date	= $_POST['date'];
     $starttime	= $_POST['starttime'];
     $endtime	= $_POST['endtime'];
@@ -29,8 +30,8 @@ if (!isset($_POST['submit'])) {
     # check if username and email exist else insert
 
         # insert data into mysql database
-        $sql = "INSERT  INTO `events` (`id`, `date`, `starttime`,`endtime`, `location`, `sponsor`, `contact`,`email`,`type`,`registration`,`freefood`, `description`,`source`)
-				VALUES (NULL, '{$date}', '{$starttime}','{$endtime}', '{$location}', '{$sponsor}', '{$contact}', '{$email}', '{$type}', '{$registration}', '{$freefood}', '{$description}', '{$source}')";
+        $sql = "INSERT  INTO `events` (`id`,`name`, `date`, `starttime`,`endtime`, `location`, `sponsor`, `contact`,`email`,`type`,`registration`,`freefood`, `description`,`source`)
+				VALUES (NULL, '{$name}','{$date}', '{$starttime}','{$endtime}', '{$location}', '{$sponsor}', '{$contact}', '{$email}', '{$type}', '{$registration}', '{$freefood}', '{$description}', '{$source}')";
 
         if ($mysqli->query($sql)) {
             echo "New Record has id ".$mysqli->insert_id;

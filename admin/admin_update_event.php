@@ -61,6 +61,11 @@
         <form action="<?=$_SERVER['PHP_SELF']?>" method="post" style="align-self: center">
             <table style="width:80%" align="center" cellpadding="20px" border="10" >
                 <tr>
+                    <td>Name</td>
+                    <td><input type="text" name="name" style="width: 290px"class="form-control"/></td>
+                    <td>TCIPG Industry Workshop 2014</td>
+                </tr>
+                <tr>
                     <td>Date</td>
                     <td><input type="text" name="date" style="width: 290px"class="form-control"/></td>
                     <td>2014-11-11</td>
