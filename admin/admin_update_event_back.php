@@ -1,4 +1,4 @@
-<?php header('Location: http://flagwall.com');
+<?php
 require_once("../php_files/db_const.php");
 if (!isset($_POST['submit'])) {
 
@@ -35,7 +35,7 @@ if (!isset($_POST['submit'])) {
         if ($mysqli->query($sql)) {
             echo "New Record has id ".$mysqli->insert_id;
 
-            echo  "<script>window.location     =\"http://www.cnblogs.com/pige\";</script>";
+            //echo  "<script>window.location     =\"http://www.cnblogs.com/pige\";</script>";
 
         } else {
             echo "<p>MySQL error no {$mysqli->errno} : {$mysqli->error}</p>";
