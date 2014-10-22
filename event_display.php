@@ -29,7 +29,7 @@
 <body>
 
 <?php
-include 'shared_bar.php';
+include 'pages/shared_bar.php';
 ?>
 
 <div class="jumbotron">
@@ -43,7 +43,7 @@ include 'shared_bar.php';
 
                 <?php
                 $id=$_GET['id'];
-                require_once("../php_files/db_const.php");
+                require_once("php_files/db_const.php");
                 $mysqli = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
                 # check connection
                 if ($mysqli->connect_errno) {

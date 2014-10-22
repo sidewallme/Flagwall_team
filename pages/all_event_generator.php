@@ -20,7 +20,7 @@ while($row = mysqli_fetch_array($result)) {
     echo "<td>" . $row['name'] . "</td>";
     echo "<td>" . $row['starttime'] . "</td>";
     echo "<td>" . $row['location'] . "</td>";
-    echo "<td>" . '<a href="http://www.flagwall.com/event_display.php?id=' . $row['id'] .'">Link'."</a>" ."</td>";
+    echo "<td>" . '<a href="http://www.flagwall.com/event_display.php?id=' . $row['id'] . '"'. "target=".'"_blank"'  .'>Link'    ."</a>" ."</td>";
     echo "</tr>";
 }
 

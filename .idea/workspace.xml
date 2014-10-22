@@ -59,12 +59,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shared_bar.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/shared_bar.php">
+      <file leaf-file-name="ff_event_generator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/ff_event_generator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="450">
-              <caret line="9" column="75" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="75" />
-              <folding />
+            <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="525">
+              <caret line="22" column="53" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <marker date="1413994439000" expanded="true" signature="388:425" placeholder="SELECT * FRO..events..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,16 +115,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/membership/register.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.875" vertical-offset="0" max-vertical-offset="900">
-              <caret line="43" column="91" selection-start-line="38" selection-start-column="8" selection-end-line="43" selection-end-column="91" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="admin_update_event_back.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/admin_update_event_back.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -137,29 +129,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin_edit_event.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/admin_edit_event.php">
+      <file leaf-file-name="admin_update_event.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/admin_update_event.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.625" vertical-offset="207" max-vertical-offset="1350">
-              <caret line="42" column="90" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="90" />
+            <state vertical-scroll-proportion="-20.625" vertical-offset="1185" max-vertical-offset="2295">
+              <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin_update_event.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/admin/admin_update_event.php">
+      <file leaf-file-name="event_display.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/event_display.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7300885" vertical-offset="1185" max-vertical-offset="2295">
-              <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.5" vertical-offset="447" max-vertical-offset="2400">
+              <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1413993940000" expanded="true" signature="2012:2043" placeholder="SELECT * FRO..events..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_event_generator.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/all_event_generator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.50884956" vertical-offset="0" max-vertical-offset="678">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <marker date="1413994446000" expanded="true" signature="388:408" placeholder="SELECT * FRO..events..." />
               </folding>
             </state>
           </provider>
@@ -185,9 +186,7 @@
         <option value="$PROJECT_DIR$/pages/try.html" />
         <option value="$PROJECT_DIR$/pages/event_viewer.html" />
         <option value="$PROJECT_DIR$/pages/freefood.php" />
-        <option value="$PROJECT_DIR$/pages/all_event_generator.php" />
         <option value="$PROJECT_DIR$/pages/event_viewer.php" />
-        <option value="$PROJECT_DIR$/pages/ff_event_generator.php" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/bootstrap-datepicker.js" />
         <option value="$PROJECT_DIR$/pages/all_event_viewer.php" />
@@ -204,6 +203,9 @@
         <option value="$PROJECT_DIR$/admin/admin_edit_display.php" />
         <option value="$PROJECT_DIR$/admin/admin_update_event_back.php" />
         <option value="$PROJECT_DIR$/admin/admin_update_event.php" />
+        <option value="$PROJECT_DIR$/event_display.php" />
+        <option value="$PROJECT_DIR$/pages/ff_event_generator.php" />
+        <option value="$PROJECT_DIR$/pages/all_event_generator.php" />
       </list>
     </option>
   </component>
@@ -451,7 +453,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -464,7 +466,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3930943" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -510,7 +512,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="2" />
-          <folding />
+          <folding>
+            <marker date="1413994439000" expanded="true" signature="388:425" placeholder="SELECT * FRO..events..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -658,14 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/all_event_generator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="525">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap-datepicker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6930">
@@ -757,35 +753,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/ff_event_generator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="525">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/membership/signup.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-52.5" vertical-offset="0" max-vertical-offset="1635">
           <caret line="84" column="89" selection-start-line="84" selection-start-column="11" selection-end-line="84" selection-end-column="89" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event_display.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.6" vertical-offset="525" max-vertical-offset="2400">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
-            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
-            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
-            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
-            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
-            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -900,11 +872,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/admin_update_event.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7300885" vertical-offset="1185" max-vertical-offset="2295">
+        <state vertical-scroll-proportion="-20.625" vertical-offset="1185" max-vertical-offset="2295">
           <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event_display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.5" vertical-offset="447" max-vertical-offset="2400">
+          <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+          <folding>
+            <marker date="1413993940000" expanded="true" signature="2012:2043" placeholder="SELECT * FRO..events..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/ff_event_generator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="525">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1413994439000" expanded="true" signature="388:425" placeholder="SELECT * FRO..events..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/all_event_generator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50884956" vertical-offset="0" max-vertical-offset="678">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1413994446000" expanded="true" signature="388:408" placeholder="SELECT * FRO..events..." />
           </folding>
         </state>
       </provider>
