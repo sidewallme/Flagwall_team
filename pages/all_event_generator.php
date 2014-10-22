@@ -11,22 +11,20 @@ if (mysqli_connect_errno()) {
     echo "Failed to connect to MySQL: " . mysqli_connect_error();
 }
 
-$result = mysqli_query($mysqli,"SELECT * FROM events WHERE freefood=1");
+$result = mysqli_query($mysqli,"SELECT * FROM events");
 
-echo "<table border='1'>
-<tr>
-<th>id</th>
-<th>location</th>
-</tr>";
 
 while($row = mysqli_fetch_array($result)) {
     echo "<tr>";
     echo "<td>" . $row['id'] . "</td>";
+    echo "<td>" . $row['name'] . "</td>";
+    echo "<td>" . $row['starttime'] . "</td>";
     echo "<td>" . $row['location'] . "</td>";
+    echo "<td>" . '<a href="http://www.flagwall.com/event_display.php?id=' . $row['id'] .'">Link'."</a>" ."</td>";
     echo "</tr>";
 }
 
-echo "</table>";
+
 
 mysqli_close($mysqli);
 ?>

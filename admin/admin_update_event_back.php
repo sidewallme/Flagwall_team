@@ -21,10 +21,10 @@ if (!isset($_POST['submit'])) {
     $contact		= $_POST['contact'];
     $email		= $_POST['email'];
     $type		= $_POST['type'];
-    $registration		= $_POST['registration'];
-    $freefood		= $_POST['freefood'];
-    $description		= $_POST['description'];
-    $source		= $_POST['source'];
+    $registration= $_POST['registration'];
+    $freefood= $_POST['freefood'];
+    $description= $_POST['description'];
+    $source= $_POST['source'];
 
 
     # check if username and email exist else insert

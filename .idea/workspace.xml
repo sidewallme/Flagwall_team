@@ -25,79 +25,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="admin_update_event.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/admin_update_event.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="780" max-vertical-offset="2550">
-              <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#table#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#1;n#tr#1;n#table#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#14;n#table#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="freefood.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/freefood.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-              <folding>
-                <marker date="1413925087000" expanded="true" signature="388:425" placeholder="SELECT * FRO..events..." />
-                <marker date="1413925087000" expanded="true" signature="453:494" placeholder="..." />
-                <marker date="1413925087000" expanded="true" signature="458:494" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin_update_event_back.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/admin/admin_update_event_back.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25677603" vertical-offset="0" max-vertical-offset="825">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding>
-                <marker date="1413925302000" expanded="true" signature="961:1325" placeholder="INSERT INTO ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="connect.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php_files/connect.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="255">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.5349501" vertical-offset="0" max-vertical-offset="1620">
+              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/membership/register.php">
+      <file leaf-file-name="ff_event_generator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/ff_event_generator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.875" vertical-offset="0" max-vertical-offset="900">
-              <caret line="43" column="91" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="91" />
+            <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="525">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding>
-                <marker date="1413899991000" expanded="true" signature="720:785" placeholder="SELECT usern..users..." />
-                <marker date="1413899991000" expanded="true" signature="878:934" placeholder="SELECT email..users..." />
-                <marker date="1413899991000" expanded="true" signature="1034:1090" placeholder="SELECT email..users..." />
-                <marker date="1413899991000" expanded="true" signature="1422:1602" placeholder="INSERT INTO ..." />
+                <marker date="1413941339000" expanded="true" signature="388:425" placeholder="SELECT * FRO..events..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db_const.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php_files/db_const.php">
+      <file leaf-file-name="ff_event_viewer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/ff_event_viewer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="180">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="28" />
+            <state vertical-scroll-proportion="-8.75" vertical-offset="825" max-vertical-offset="2370">
+              <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -115,17 +69,23 @@
       <list>
         <option value="$PROJECT_DIR$/css/dashboard" />
         <option value="$PROJECT_DIR$/pages/event_viewer" />
-        <option value="$PROJECT_DIR$/pages/event_viewer.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/php_files/try.html" />
         <option value="$PROJECT_DIR$/php_files/connect.php" />
         <option value="$PROJECT_DIR$/membership/db_const.php" />
         <option value="$PROJECT_DIR$/membership/signup.html" />
         <option value="$PROJECT_DIR$/membership/signup.php" />
         <option value="$PROJECT_DIR$/membership/register.php" />
-        <option value="$PROJECT_DIR$/pages/freefood.php" />
         <option value="$PROJECT_DIR$/admin/admin_update_event.php" />
         <option value="$PROJECT_DIR$/admin/admin_update_event_back.php" />
+        <option value="$PROJECT_DIR$/pages/try.html" />
+        <option value="$PROJECT_DIR$/pages/event_viewer.html" />
+        <option value="$PROJECT_DIR$/pages/freefood.php" />
+        <option value="$PROJECT_DIR$/pages/all_event_generator.php" />
+        <option value="$PROJECT_DIR$/pages/event_viewer.php" />
+        <option value="$PROJECT_DIR$/pages/ff_event_generator.php" />
+        <option value="$PROJECT_DIR$/pages/all_event_viewer.php" />
+        <option value="$PROJECT_DIR$/pages/ff_event_viewer.php" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -231,6 +191,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flagwall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flagwall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -270,28 +244,30 @@
       <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.freefood.php">
-    <configuration default="false" name="register.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flagwall/membership/register.php">
+  <component name="RunManager" selected="JavaScript Debug.event_viewer.html">
+    <configuration default="false" name="freefood.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flagwall/pages/freefood.php">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="register.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/membership/register.php">
-      <RunnerSettings RunnerId="PhpRunner" />
-      <ConfigurationWrapper RunnerId="PhpRunner" />
+    <configuration default="false" name="event_viewer.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flagwall/pages/event_viewer.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="signup.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flagwall/membership/signup.php">
+    <configuration default="false" name="freefood.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/pages/freefood.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="event_viewer.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flagwall/pages/event_viewer.php">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="false" name="admin_update_event.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flagwall/admin/admin_update_event.php">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="freefood.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flagwall/pages/freefood.php">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -325,19 +301,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.register.php" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Script.register.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.signup.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.admin_update_event.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.freefood.php" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.freefood.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.html" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.freefood.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.admin_update_event.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.freefood.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.admin_update_event.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.signup.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.register.php" />
-        <item index="4" class="java.lang.String" itemvalue="PHP Script.register.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.admin_update_event.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.freefood.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.freefood.php" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +346,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31735536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -411,14 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/event_viewer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3315" max-vertical-offset="3765">
-          <caret line="221" column="25" selection-start-line="221" selection-start-column="25" selection-end-line="221" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php_files/connect.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="255">
@@ -432,10 +400,10 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="535" max-vertical-offset="900">
           <caret line="43" column="91" selection-start-line="43" selection-start-column="91" selection-end-line="43" selection-end-column="91" />
           <folding>
-            <marker date="1413899991000" expanded="true" signature="720:785" placeholder="SELECT usern..users..." />
-            <marker date="1413899991000" expanded="true" signature="878:934" placeholder="SELECT email..users..." />
-            <marker date="1413899991000" expanded="true" signature="1034:1090" placeholder="SELECT email..users..." />
-            <marker date="1413899991000" expanded="true" signature="1422:1602" placeholder="INSERT INTO ..." />
+            <marker date="1413899991000" expanded="true" signature="-1:-1" placeholder="SELECT usern..users..." />
+            <marker date="1413899991000" expanded="true" signature="-1:-1" placeholder="SELECT email..users..." />
+            <marker date="1413899991000" expanded="true" signature="-1:-1" placeholder="SELECT email..users..." />
+            <marker date="1413899991000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -474,14 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/event_viewer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3315" max-vertical-offset="3765">
-          <caret line="221" column="25" selection-start-line="221" selection-start-column="25" selection-end-line="221" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php_files/connect.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255">
@@ -490,50 +450,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php_files/try.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1605">
           <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#a#0;n#form#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/event_viewer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3765">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/event_viewer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3315" max-vertical-offset="3765">
-          <caret line="221" column="25" selection-start-line="221" selection-start-column="25" selection-end-line="221" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_files/try.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.021398002" vertical-offset="0" max-vertical-offset="701">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1107" max-vertical-offset="1620">
-          <caret line="101" column="7" selection-start-line="31" selection-start-column="0" selection-end-line="101" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#button#0;n#a#0;n#form#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
@@ -564,38 +484,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/php_files/db_const.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08559201" vertical-offset="0" max-vertical-offset="701">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="31740">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/membership/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.875" vertical-offset="0" max-vertical-offset="900">
-          <caret line="43" column="91" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="91" />
+        <state vertical-scroll-proportion="0.6847361" vertical-offset="0" max-vertical-offset="900">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
-            <marker date="1413899991000" expanded="true" signature="720:785" placeholder="SELECT usern..users..." />
-            <marker date="1413899991000" expanded="true" signature="878:934" placeholder="SELECT email..users..." />
-            <marker date="1413899991000" expanded="true" signature="1034:1090" placeholder="SELECT email..users..." />
-            <marker date="1413899991000" expanded="true" signature="1422:1602" placeholder="INSERT INTO ..." />
+            <marker date="1413899991000" expanded="true" signature="-1:-1" placeholder="SELECT usern..users..." />
+            <marker date="1413899991000" expanded="true" signature="-1:-1" placeholder="SELECT email..users..." />
+            <marker date="1413899991000" expanded="true" signature="-1:-1" placeholder="SELECT email..users..." />
+            <marker date="1413899991000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/php_files/connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="255">
+        <state vertical-scroll-proportion="0.021398002" vertical-offset="0" max-vertical-offset="701">
           <caret line="1" column="30" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_files/db_const.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="180">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/admin_update_event.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="780" max-vertical-offset="2550">
+        <state vertical-scroll-proportion="0.17699115" vertical-offset="780" max-vertical-offset="2550">
           <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -608,25 +536,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/freefood.php">
+    <entry file="file://$PROJECT_DIR$/pages/all_event_generator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding>
-            <marker date="1413925087000" expanded="true" signature="388:425" placeholder="SELECT * FRO..events..." />
-            <marker date="1413925087000" expanded="true" signature="453:494" placeholder="..." />
-            <marker date="1413925087000" expanded="true" signature="458:494" placeholder="..." />
+            <marker date="1413940214000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/all_event_viewer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="41.75" vertical-offset="1407" max-vertical-offset="2370">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/admin_update_event_back.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25677603" vertical-offset="0" max-vertical-offset="825">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.3366619" vertical-offset="124" max-vertical-offset="825">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding>
-            <marker date="1413925302000" expanded="true" signature="961:1325" placeholder="INSERT INTO ..." />
+            <marker date="1413925545000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/ff_event_generator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1413941339000" expanded="true" signature="388:425" placeholder="SELECT * FRO..events..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/ff_event_viewer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="825" max-vertical-offset="2370">
+          <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5349501" vertical-offset="0" max-vertical-offset="1620">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
