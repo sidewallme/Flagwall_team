@@ -22,7 +22,7 @@ if (isset($_POST['search'])) {
         echo "<td>" . $row['name'] . "</td>";
         echo "<td>" . $row['starttime'] . "</td>";
         echo "<td>" . $row['location'] . "</td>";
-        echo "<td>" . '<a href="http://www.flagwall.com/admin/event_edit_display.php?id=' . $row['id'] . '">Link' . "</a>" . "</td>";
+        echo "<td>" . '<a href="http://www.flagwall.com/admin/admin_edit_display.php?id=' . $row['id'] . '">Link' . "</a>" . "</td>";
         echo "</tr>";
     }
 
