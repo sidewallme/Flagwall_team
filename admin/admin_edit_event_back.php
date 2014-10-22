@@ -1,5 +1,6 @@
 <?php
 if (isset($_POST['search'])) {
+    $s_name=$_POST['s_name'];
     require_once("../php_files/db_const.php");
     $mysqli = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
 # check connection
@@ -12,7 +13,7 @@ if (isset($_POST['search'])) {
         echo "Failed to connect to MySQL: " . mysqli_connect_error();
     }
 
-    $result = mysqli_query($mysqli, "SELECT * FROM events ");
+    $result = mysqli_query($mysqli, "SELECT * FROM events WHERE name LIKE'%{$s_name}%' OR location LIKE'%{$s_name}%' OR description LIKE'%{$s_name}%' ");
 
 
     while ($row = mysqli_fetch_array($result)) {
@@ -21,7 +22,7 @@ if (isset($_POST['search'])) {
         echo "<td>" . $row['name'] . "</td>";
         echo "<td>" . $row['starttime'] . "</td>";
         echo "<td>" . $row['location'] . "</td>";
-        echo "<td>" . '<a href="http://www.flagwall.com/event_display.php?id=' . $row['id'] . '">Link' . "</a>" . "</td>";
+        echo "<td>" . '<a href="http://www.flagwall.com/admin/event_edit_display.php?id=' . $row['id'] . '">Link' . "</a>" . "</td>";
         echo "</tr>";
     }
 

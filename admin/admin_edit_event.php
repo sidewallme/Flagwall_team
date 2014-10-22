@@ -29,15 +29,17 @@
 <body>
 <?php include 'shared_bar.php';?>
 
-<form name="search" action="<?=$_SERVER['PHP_SELF']?>" method="post">
-    Search Event <input type="text" name="name">
-    <input type="submit" name="search" value="search">
-</form>
+
 
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
-    <div class="container"  style="width:860px;margin:0 auto; align-self: center">
+    <div class="container"  style="width:90%;margin:0 auto; align-self: center">
+        <form style="align-self: center" name="search" action="<?=$_SERVER['PHP_SELF']?>" method="post">
+            <input  style="width: 300px; display: inline" width="40px" type="text" name="s_name" class="form-control" placeholder="Event KeyWord">
+            <button class="btn btn-primary" style="display: inline" type="submit" name="search" value="search">Search</button>
+        </form>
+        <p></p>
         <form action="<?=$_SERVER['PHP_SELF']?>" method="post" style="align-self: center">
             <table id="myTable" class="table table-striped">
                 <thead>

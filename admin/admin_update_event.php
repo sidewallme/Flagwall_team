@@ -32,6 +32,7 @@
 
 <?php include 'shared_bar';?>
 
+
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container"  style="width:860px;margin:0 auto; align-self: center">
