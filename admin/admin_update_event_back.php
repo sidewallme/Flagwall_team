@@ -1,13 +1,9 @@
-<?php
-function safe($value){
-    return mysql_real_escape_string($value);
-}
-?>
+
 <?php
 require_once("../php_files/db_const.php");
-if (isset($_POST['submit'])) {
+if (!isset($_POST['submit'])) {
 
-
+}else{
 ## connect mysql server
     $mysqli = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME, 3306);
     # check connection

@@ -32,8 +32,8 @@
 include 'shared_bar.php';
 ?>
 
-<div class="jumbotron" style="float: left">
-    <div class="container"  style="width:100%;float: left">
+<div class="jumbotron" style="width:100%;float: left">
+    <div class="container"  style="width:100%;">
 
         <p></p>
         <div style="float: left;width: 50%;">

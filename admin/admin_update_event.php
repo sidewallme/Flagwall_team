@@ -30,14 +30,14 @@
 
 <?php include 'admin_update_event_back.php';?>
 
-<?php include 'shared_bar';?>
+<?php include 'shared_bar.php';?>
 
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container"  style="width:860px;margin:0 auto; align-self: center">
         <form action="<?=$_SERVER['PHP_SELF']?>" method="post" style="align-self: center">
-            <table style="width:80%" align="center" cellpadding="20px" border="10" >
+            <table style="width:80%" align="center" cellpadding="20px" border="" >
                 <tr>
                     <td>Name</td>
                     <td><input type="text" name="name" style="width: 290px"class="form-control"/></td>
@@ -109,6 +109,10 @@
                     <td>
                         <br>
                     </td>
+                    <td>
+                        
+                    </td>
+
                 </tr>
                 <tr>
                     <td>
@@ -116,6 +120,7 @@
                     <td style="align-content: center">
                         <input type="submit" name="submit" value="Add Event" class="btn btn-default"/>
                     </td>
+                    <td></td>
                 </tr>
 
             </table>
