@@ -156,7 +156,7 @@
         <entry file="file://$PROJECT_DIR$/admin/admin_update_event.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.7300885" vertical-offset="1185" max-vertical-offset="2295">
-              <caret line="112" column="24" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+              <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#table#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -360,6 +360,7 @@
       <recent name="$PROJECT_DIR$/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/php_files" />
       <recent name="$PROJECT_DIR$/css" />
     </key>
@@ -450,7 +451,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -463,7 +464,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3930943" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -661,6 +662,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="525">
           <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -771,18 +773,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/event_display.php">
+    <entry file="file://$PROJECT_DIR$/event_display.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="3.6" vertical-offset="525" max-vertical-offset="2400">
           <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1413962066000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
-            <marker date="1413962066000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
-            <marker date="1413962066000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
-            <marker date="1413962066000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
-            <marker date="1413962066000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
-            <marker date="1413962066000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
+            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
+            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
+            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
+            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
+            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
+            <marker date="1413993735000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..events..." />
           </folding>
         </state>
       </provider>
@@ -899,7 +901,7 @@
     <entry file="file://$PROJECT_DIR$/admin/admin_update_event.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7300885" vertical-offset="1185" max-vertical-offset="2295">
-          <caret line="112" column="24" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
