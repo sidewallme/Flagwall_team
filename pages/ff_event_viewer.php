@@ -59,24 +59,7 @@
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
             <h1 class="page-header">Free Food Hub</h1>
 
-            <div class="row placeholders">
-                <div class="col-xs-6 col-sm-3 placeholder">
-                    <h4>Date</h4>
-                    <span class="text-muted">Something else</span>
-                </div>
-                <div class="col-xs-6 col-sm-3 placeholder">
-                    <h4>Time</h4>
-                    <span class="text-muted">Something else</span>
-                </div>
-                <div class="col-xs-6 col-sm-3 placeholder">
-                    <h4>Location</h4>
-                    <span class="text-muted">Something else</span>
-                </div>
-                <div class="col-xs-6 col-sm-3 placeholder">
-                    <h4>Label</h4>
-                    <span class="text-muted">Something else</span>
-                </div>
-            </div>
+            <?php include 'shared_filter.php'?>
             <p class="page-header"></p> <!--heng xian-->
             <div class="table-responsive" >
                 <table id="myTable" class="table table-striped">
