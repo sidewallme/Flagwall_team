@@ -1,4 +1,9 @@
 <?php
+function safe($value){
+    return mysql_real_escape_string($value);
+}
+?>
+<?php
 require_once("../php_files/db_const.php");
 if (!isset($_POST['submit'])) {
 
@@ -12,29 +17,34 @@ if (!isset($_POST['submit'])) {
     }
 ## query database
     # prepare data for insertion
-    $name	= $_POST['name'];
-    $date	= $_POST['date'];
-    $starttime	= $_POST['starttime'];
-    $endtime	= $_POST['endtime'];
-    $location	= $_POST['location'];
-    $sponsor	= $_POST['sponsor'];
-    $contact		= $_POST['contact'];
-    $email		= $_POST['email'];
-    $type		= $_POST['type'];
-    $registration= $_POST['registration'];
-    $freefood= $_POST['freefood'];
-    $description= $_POST['description'];
-    $source= $_POST['source'];
+    $name	= safe($_POST['name']);
+    $date	= safe($_POST['date']);
+    $starttime	= safe($_POST['starttime']);
+    $endtime	= safe($_POST['endtime']);
+    $location	= safe($_POST['location']);
+    $sponsor	= safe($_POST['sponsor']);
+    $contact		= safe($_POST['contact']);
+    $email		= safe($_POST['email']);
+    $type		= safe($_POST['type']);
+    $registration= safe($_POST['registration']);
+    $freefood= safe($_POST['freefood']);
+    $description= safe($_POST['description']);
+    $source= safe($_POST['source']);
 
 
     # check if username and email exist else insert
 
         # insert data into mysql database
+        mysql_query("set names 'utf8'");
         $sql = "INSERT  INTO `events` (`id`,`name`, `date`, `starttime`,`endtime`, `location`, `sponsor`, `contact`,`email`,`type`,`registration`,`freefood`, `description`,`source`)
 				VALUES (NULL, '{$name}','{$date}', '{$starttime}','{$endtime}', '{$location}', '{$sponsor}', '{$contact}', '{$email}', '{$type}', '{$registration}', '{$freefood}', '{$description}', '{$source}')";
 
         if ($mysqli->query($sql)) {
-            echo "New Record has id ".$mysqli->insert_id;
+            echo '<div class="alert alert-success" role="alert">
+                You have succesfully added event:'
+                .$mysqli->insert_id. '</div>';
+            echo '<div class="alert alert-success" role="alert">
+                <a href="http://Flagwall.com/admin/admin_update_event.php">Click Here to Add another Event!</a></div>';
 
             //echo  "<script>window.location     =\"http://www.cnblogs.com/pige\";</script>";
 
