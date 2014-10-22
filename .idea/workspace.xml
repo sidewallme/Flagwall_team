@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="33.208332" vertical-offset="1067" max-vertical-offset="1620">
-              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.18141593" vertical-offset="942" max-vertical-offset="1620">
+              <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -45,14 +45,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ff_event_generator.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ff_event_generator.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/ff_event_generator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51355207" vertical-offset="0" max-vertical-offset="701">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="525">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <marker date="1413941339000" expanded="true" signature="388:425" placeholder="SELECT * FRO..events..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_event_viewer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/all_event_viewer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="2025">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shared_bar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/shared_bar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="465">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,8 +99,8 @@
       <file leaf-file-name="ff_event_viewer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/ff_event_viewer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="18.208334" vertical-offset="1472" max-vertical-offset="2370">
-              <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+            <state vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="2025">
+              <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -111,10 +131,11 @@
         <option value="$PROJECT_DIR$/pages/all_event_generator.php" />
         <option value="$PROJECT_DIR$/pages/event_viewer.php" />
         <option value="$PROJECT_DIR$/pages/ff_event_generator.php" />
-        <option value="$PROJECT_DIR$/pages/all_event_viewer.php" />
-        <option value="$PROJECT_DIR$/pages/ff_event_viewer.php" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/admin/admin_update_event_back.php" />
+        <option value="$PROJECT_DIR$/pages/shared_bar.php" />
+        <option value="$PROJECT_DIR$/pages/all_event_viewer.php" />
+        <option value="$PROJECT_DIR$/pages/ff_event_viewer.php" />
       </list>
     </option>
   </component>
@@ -273,12 +294,7 @@
       <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.admin_update_event.php">
-    <configuration default="false" name="freefood.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flagwall/pages/freefood.php">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.all_event_viewer.php">
     <configuration default="false" name="event_viewer.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flagwall/pages/event_viewer.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -297,6 +313,11 @@
     <configuration default="false" name="admin_update_event.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/admin/admin_update_event.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="all_event_viewer.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flagwall/pages/all_event_viewer.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -328,19 +349,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.freefood.php" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.admin_update_event.php" />
-      <item index="4" class="java.lang.String" itemvalue="PHP Script.admin_update_event.php" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.admin_update_event.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.admin_update_event.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.all_event_viewer.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.admin_update_event.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.admin_update_event.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.freefood.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.all_event_viewer.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.admin_update_event.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.admin_update_event.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.event_viewer.php" />
       </list>
     </recent_temporary>
   </component>
@@ -558,34 +579,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/all_event_viewer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="41.75" vertical-offset="1407" max-vertical-offset="2370">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/admin_update_event.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="53.75" vertical-offset="2190" max-vertical-offset="2550">
           <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="33.208332" vertical-offset="1067" max-vertical-offset="1620">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/ff_event_viewer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="18.208334" vertical-offset="1472" max-vertical-offset="2370">
-          <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -607,13 +604,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/all_event_viewer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="2025">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shared_bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="465">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/ff_event_generator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51355207" vertical-offset="0" max-vertical-offset="701">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="525">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <marker date="1413941339000" expanded="true" signature="388:425" placeholder="SELECT * FRO..events..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/ff_event_viewer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="2025">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18141593" vertical-offset="942" max-vertical-offset="1620">
+          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
