@@ -5,11 +5,11 @@ function safe($value){
 ?>
 <?php
 require_once("../php_files/db_const.php");
-if (!isset($_POST['submit'])) {
+if (isset($_POST['submit'])) {
 
-} else {
+
 ## connect mysql server
-    $mysqli = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
+    $mysqli = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME, 3306);
     # check connection
     if ($mysqli->connect_errno) {
         echo "<p>MySQL error no {$mysqli->connect_errno} : {$mysqli->connect_error}</p>";
@@ -17,25 +17,25 @@ if (!isset($_POST['submit'])) {
     }
 ## query database
     # prepare data for insertion
-    $name	= safe($_POST['name']);
-    $date	= safe($_POST['date']);
-    $starttime	= safe($_POST['starttime']);
-    $endtime	= safe($_POST['endtime']);
-    $location	= safe($_POST['location']);
-    $sponsor	= safe($_POST['sponsor']);
-    $contact		= safe($_POST['contact']);
-    $email		= safe($_POST['email']);
-    $type		= safe($_POST['type']);
-    $registration= safe($_POST['registration']);
-    $freefood= safe($_POST['freefood']);
-    $description= safe($_POST['description']);
-    $source= safe($_POST['source']);
+    $name	= $mysqli->real_escape_string($_POST['name']);
+    $date	= $mysqli->real_escape_string($_POST['date']);
+    $starttime	= $mysqli->real_escape_string($_POST['starttime']);
+    $endtime	= $mysqli->real_escape_string($_POST['endtime']);
+    $location	= $mysqli->real_escape_string($_POST['location']);
+    $sponsor	= $mysqli->real_escape_string($_POST['sponsor']);
+    $contact		= $mysqli->real_escape_string($_POST['contact']);
+    $email		= $mysqli->real_escape_string($_POST['email']);
+    $type		= $mysqli->real_escape_string($_POST['type']);
+    $registration= $mysqli->real_escape_string($_POST['registration']);
+    $freefood= $mysqli->real_escape_string($_POST['freefood']);
+    $description= $mysqli->real_escape_string($_POST['description']);
+    $source= $mysqli->real_escape_string($_POST['source']);
 
 
     # check if username and email exist else insert
 
         # insert data into mysql database
-        mysql_query("set names 'utf8'");
+
         $sql = "INSERT  INTO `events` (`id`,`name`, `date`, `starttime`,`endtime`, `location`, `sponsor`, `contact`,`email`,`type`,`registration`,`freefood`, `description`,`source`)
 				VALUES (NULL, '{$name}','{$date}', '{$starttime}','{$endtime}', '{$location}', '{$sponsor}', '{$contact}', '{$email}', '{$type}', '{$registration}', '{$freefood}', '{$description}', '{$source}')";
 

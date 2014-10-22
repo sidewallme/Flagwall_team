@@ -1,5 +1,5 @@
 
-<?php header('Location: http://flagwall.com');
+<?php
 require_once("../php_files/db_const.php");
 if (!isset($_POST['submit'])) {
 
